@@ -2,7 +2,7 @@ const webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const path = require('path');
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3001;
 
 module.exports = {
   // Webpack configuration goes here
